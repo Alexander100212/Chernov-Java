@@ -1,3 +1,4 @@
+//задание 3
 package test_3;
 
 public class Main
