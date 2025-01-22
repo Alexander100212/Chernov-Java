@@ -1,4 +1,4 @@
-//задание №1
+//задание 1
 package test_1;
 
 import java.util.Scanner;
